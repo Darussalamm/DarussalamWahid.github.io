@@ -1,0 +1,17 @@
+footer {
+  background-color: #14ffeb;
+  padding-top: 1rem;
+  padding-bottom: 3rem;
+}
+.jumbotron {
+  padding: 6rem;
+  background-color: #14ffeb;
+}
+#Gedung {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  background-color: #14ffeb;
+}
+section {
+  padding-top: 5rem;
+}
